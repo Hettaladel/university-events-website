@@ -5,6 +5,7 @@
 **Date:** January 2025 · 3rd-year engineering (ING 3), Databases module, University of Boumerdès (UMBB)
 **Supervisor:** Mr. Djamal Belkacemi
 **Team:** Adel Hettal, Abderrahmane Ferhat
+**Project summary (PDF):** [docs/project-summary.pdf](docs/project-summary.pdf)
 
 Website that centralises university events and routes each one through an approval workflow before it goes public.
 
