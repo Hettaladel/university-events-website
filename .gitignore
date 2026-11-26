@@ -1,0 +1,7 @@
+.env
+config.local.php
+vendor/
+*.sql.bak
+.phpunit.result.cache
+.idea/
+.DS_Store
